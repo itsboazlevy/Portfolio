@@ -1,0 +1,18 @@
+#ifndef __GAMEERR_H__
+#define __GAMEERR_H__
+
+typedef enum 
+{
+	FAIL,
+	SUCCESS,
+	PARAMETERS_ERR,
+	NULL_ERR,
+	UNDERFLOW_ERR,
+	CARD_INDEX_ERR,
+	OVERFLOW_ERR,
+	GAME_OVER,
+	ROUND_ALLOC_ERR,
+	DECK_ALLOC_ERR
+}gameErr;
+
+#endif /*__GAMEERR_H__*/
