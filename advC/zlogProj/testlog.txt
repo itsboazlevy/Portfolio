@@ -1,0 +1,7 @@
+Module: testapp.c  Line:8 Log Level:3  Time: Sat Mar 16 20:42:22 2019
+Module: testapp.c  Line:8 Log Level:3  Time: Sat Mar 16 20:42:24 2019
+Module: testapp.c  Line:9 Log Level:4  Time: Sat Mar 16 20:42:37 2019
+Module: testapp.c  Line:8 Log Level:3  Time: Sat Mar 16 20:42:37 2019
+Module: testapp.c  Line:8 Log Level:3  Time: Sun Mar 17 08:31:46 2019
+this is a log warning with 1 parameter 90Module: testapp.c  Line:8 Log Level:3  Time: Sun Mar 17 08:41:55 2019
+this is a log warning with 1 parameter 90
